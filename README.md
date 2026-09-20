@@ -144,7 +144,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ypyeison19-droid/ypyeison19-droid/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+ <img src="https://raw.githubusercontent.com/ypyeison19-droid/ypyeison19-droide/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
