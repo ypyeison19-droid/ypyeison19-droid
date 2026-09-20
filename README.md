@@ -15,8 +15,8 @@
 
   <!-- TYPING EFFECT (TEXTO ANIMADO DE PRESENTACIÓN) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+de+Software;Maquetación+HTML5%2C+CSS3+3D+%26+JS;Apasionado+por+Python+%26+Bases+de+Datos;Construyendo+proyectos+con+pasión+🔥" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+de+Software;Maquetacion+HTML5%2C+CSS3+3D+%26+JS;Apasionado+por+Python+%26+Bases+de+Datos;Construyendo+proyectos+con+pasion+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
   <br/><br/>
 
