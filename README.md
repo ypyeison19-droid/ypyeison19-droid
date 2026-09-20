@@ -37,12 +37,12 @@
 
 ---
 
-<!-- SECCIÓN ACERCA DE MÍ EN TABLA ELEGANTE -->
+<!-- SECCIÓN ACERCA DE MÍ -->
 ## 👨‍💻 Sobre Mí
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <ul>
         <li>🌱 <b>Enfocado en:</b> Dominar el ecosistema Frontend moderno, lógica en Python y arquitectura SQL.</li>
         <li>🎨 <b>Especialidad visual:</b> Creación de componentes web interactivos, diseños con CSS Grid, Flexbox y transformaciones 3D.</li>
@@ -51,8 +51,8 @@
         <li>💬 <b>Intereses adicionales:</b> Automatización de código, diseño de interfaces y desarrollo continuo.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypyeison19-droid&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypyeison19-droid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
