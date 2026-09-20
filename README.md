@@ -5,8 +5,8 @@
   <br/><br/>
 
   <!-- FOTO DE PERFIL ENMARCADA (Puedes cambiar la URL por tu foto) -->
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img src="https://github.com/TU_USUARIO_GITHUB.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #61dafb; box-shadow: 0 0 15px rgba(97, 218, 251, 0.5);" alt="Foto de perfil"/>
+  <a href="https://github.com/ypyeison19-droide">
+    <img src="https://github.com/ypyeison19-droide.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #61dafb; box-shadow: 0 0 15px rgba(97, 218, 251, 0.5);" alt="Foto de perfil"/>
   </a>
 
   <br/><br/>
@@ -52,7 +52,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypyeison19-driode&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -128,13 +128,13 @@
 <div align="center">
 
   <!-- TROFEOS DE GITHUB -->
-  <img src="https://github-profile-trophies.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=ypyeison19-droide&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" width="100%"/>
 
   <br/><br/>
 
   <!-- TARJETAS DE ESTADÍSTICAS Y RACHA -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ypyeison19-droide&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ypyeison19-droide&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 </div>
 
@@ -144,7 +144,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ypyeison19-droide/ypyeison19-droide/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
@@ -156,6 +156,6 @@
 
   <br/>
 
-  👁️ **Visitas Totales:** ![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=61dafb&style=for-the-badge)
+  👁️ **Visitas Totales:** ![Visitor Count](https://komarev.com/ghpvc/?username=ypyeison19-droide&color=61dafb&style=for-the-badge)
 
 </div>
