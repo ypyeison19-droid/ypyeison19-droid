@@ -1,6 +1,6 @@
 <!-- ENCABEZADO Y BANNER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=¡Hola,%20soy%Estiben!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=¡Hola,%20soy%,Estiben!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
