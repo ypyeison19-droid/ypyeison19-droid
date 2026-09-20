@@ -52,7 +52,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypyeison19-driod&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypyeison19-droid&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages"/>
     </td>
   </tr>
 </table>
